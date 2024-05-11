@@ -1,0 +1,15 @@
+body {
+    background-image: url('./a6767696499d65728aafd1620e6be0ea.jpg');
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    color: white; 
+    text-align: center; 
+}
+  .home-content {
+    padding: 10px; 
+    margin-top: 50px;
+    border-radius: 10px; 
+  }
+  
+
